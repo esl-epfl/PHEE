@@ -1,0 +1,12 @@
+// Copyright 2023 David Mallasen Quintana
+// Solderpad Hardware License, Version 2.1, see LICENSE for details.
+// SPDX-License-Identifier: Apache-2.0 WITH SHL-2.1
+{
+  name: "esl-epfl_coprosit",
+  target_dir: "esl-epfl_coprosit",
+
+  upstream: {
+    url: "https://github.com/esl-epfl/Coprosit.git",
+    rev: "84d594456f5ac3a4c1816dc455b2689162e34fc8",
+  },
+}
