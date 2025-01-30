@@ -2,7 +2,7 @@
 
 System integrating [Coprosit](https://github.com/esl-epfl/Coprosit) into [X-HEEP](https://github.com/esl-epfl/x-heep) via the [eXtension interface](https://docs.openhwgroup.org/projects/openhw-group-core-v-xif).
 
-<p align="center"><img src="docs/PHEE_block_diagram.drawio.png" width="100%"></p>
+![PHEE diagram](docs/PHEE_diagram_horizontal.drawio.svg)
 
 ## Setup
 
