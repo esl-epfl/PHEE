@@ -4,6 +4,20 @@ System integrating [Coprosit](https://github.com/esl-epfl/Coprosit) into [X-HEEP
 
 ![PHEE diagram](docs/PHEE_diagram_horizontal.drawio.svg)
 
+If you use PHEE in your academic work, you can cite [our preprint](https://arxiv.org/abs/2501.18253):
+
+~~~BibTeX
+@misc{mallasen2025Increasing,
+      title={Increasing the Energy-Efficiency of Wearables Using Low-Precision Posit Arithmetic with PHEE}, 
+      author={David Mallasén and Pasquale Davide Schiavone and Alberto A. Del Barrio and Manuel Prieto-Matias and David Atienza},
+      year={2025},
+      eprint={2501.18253},
+      archivePrefix={arXiv},
+      primaryClass={cs.AR},
+      url={https://arxiv.org/abs/2501.18253}, 
+}
+~~~
+
 ## Setup
 
 First, create the `core-v-mini-mcu` conda environment of X-HEEP. Check X-HEEP's `README` for more information.
