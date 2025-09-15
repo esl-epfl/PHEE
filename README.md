@@ -30,7 +30,7 @@ make mcu-gen CPU=cv32e40px
 ~~~
 
 You will also need the Xposit compiler compatible with the PULP extensions.
-You can find it in the [PULP-compatible branch of llvm-xposit](https://github.com/esl-epfl/llvm-xposit/tree/PULP-compatible).
+You can find it in the [PULP-compatible branch of llvm-xposit](https://github.com/davidmallasen/llvm-xposit/tree/PULP-compatible).
 
 ## Compiling applications
 
