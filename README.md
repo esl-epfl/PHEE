@@ -4,17 +4,17 @@ System integrating [Coprosit](https://github.com/esl-epfl/Coprosit) into [X-HEEP
 
 ![PHEE diagram](docs/PHEE_diagram_horizontal.drawio.svg)
 
-If you use PHEE in your academic work, you can cite [our preprint](https://arxiv.org/abs/2501.18253):
+If you use PHEE in your academic work, you can cite [our paper](https://ieeexplore.ieee.org/document/11339480):
 
 ~~~BibTeX
-@misc{mallasen2025Increasing,
-      title={Increasing the Energy-Efficiency of Wearables Using Low-Precision Posit Arithmetic with PHEE}, 
-      author={David Mallasén and Pasquale Davide Schiavone and Alberto A. Del Barrio and Manuel Prieto-Matias and David Atienza},
-      year={2025},
-      eprint={2501.18253},
-      archivePrefix={arXiv},
-      primaryClass={cs.AR},
-      url={https://arxiv.org/abs/2501.18253}, 
+@article{mallasen2026Increasing,
+  title = {Increasing the Energy Efficiency of Wearables Using Low-Precision Posit Arithmetic with PHEE},
+  author = {Mallas{\'e}n, David and Schiavone, Pasquale Davide and Del Barrio, Alberto A. and {Prieto-Matias}, Manuel and Atienza, David},
+  year = 2026,
+  journal = {IEEE Transactions on Circuits and Systems for Artificial Intelligence},
+  pages = {1--11},
+  issn = {2996-6647},
+  doi = {10.1109/TCASAI.2026.3652126}
 }
 ~~~
 
